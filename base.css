@@ -19,20 +19,23 @@ body {
     width: 85%;
 }
 .menu {
-    width: 15%;
-    background-color: aqua;
-    padding: 10px 20px 0px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+   width: 15%;
+    background-color: rgb(231, 207, 185);
+    padding: 50px 10px 0px;
+
 }
 .header {
-    background-color: rgb(5, 108, 108);
-    min-height: 150px;
+    background-color: rgb(249, 235, 224);
+    min-height: 100px;
 }
 .content {
     background-color: white;
-    min-height: 300px;
+    min-height: 600px;
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color: rgb(249, 235, 224);
     min-height: 150px;
+    padding: 10px;
 }
